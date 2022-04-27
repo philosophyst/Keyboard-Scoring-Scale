@@ -65,21 +65,15 @@ namespace KlavyePuanlamaÖlcegi
 
         private void button2_Click(object sender, EventArgs e)
         {
-            try
-            {
-                textBox3.Text = "0";
-                textBox4.Text = "0";
-                textBox5.Text = "0";
-                textBox6.Text = "0";
-                textBox7.Text = "0";
-            }
-            catch (Exception)
-            {
-            }
+            temizle();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            temizle();
+        }
+        
+        private void temizle(){
             try
             {
                 textBox3.Text = "0";
