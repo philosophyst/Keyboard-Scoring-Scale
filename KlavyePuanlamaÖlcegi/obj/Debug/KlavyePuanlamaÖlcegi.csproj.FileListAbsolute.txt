@@ -1,0 +1,11 @@
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\bin\Debug\KlavyePuanlamaÖlcegi.exe.config
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\bin\Debug\KlavyePuanlamaÖlcegi.exe
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\bin\Debug\KlavyePuanlamaÖlcegi.pdb
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.csproj.AssemblyReference.cache
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.Properties.Resources.resources
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.exe
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.pdb
+C:\Users\bilal\source\repos\Form\KlavyePuanlamaÖlcegi\obj\Debug\KlavyePuanlamaÖlcegi.KlavyePuanlamaOlcegi.resources
